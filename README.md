@@ -1,2 +1,2 @@
-# crianod_maquinas_virtuais
+# criando_maquinas_virtuais
 Lab - Criando máquinas virtuais
