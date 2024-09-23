@@ -19,6 +19,6 @@ Lab - Criando máquinas virtuais
 |Govenrnaça|
 
 
-## Mini Curriculo
+## Informações Extras
 
 #### A didática da Valeria é simplesmente fantástica.
